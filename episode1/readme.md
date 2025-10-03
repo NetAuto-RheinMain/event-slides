@@ -1,0 +1,8 @@
+# NetAuto Group Meetup - Episode 1
+
+| [Florian Loehden](https://www.linkedin.com/in/florian-loehden/) | [What is Network Automation for everyone?](./NetAuto-m1-p1-network-automation.pdf) | In the lightning talk given by Florian Löhden, we will first hear about:
+What is this group, and what does it aim for? Giving a small introduction on what we thought while we were planning this group! But this isn't the only thing for the discussion we wanna talk about:
+What is Network Automation for you? There is no single answer to this! We aim to use this lightning talk to initiate a discussion on how we all became involved in Network Automation and what our experiences have been so far. |
+| [Uzma Saman Chanderki](https://www.linkedin.com/in/uzmasaman/) | [Automating Nokia SR Linux: My way with Custom Ansible Modules](./Network-Automation-Nokia-SR-linux.pdf) | We will hear and talk about her Custom Ansible library, but let's hear what she says about it:
+I’ve experimented with the existing Ansible collection released by the Nokia team, which includes CLI and config modules that interact directly with YANG module paths. While powerful, this approach can be intimidating for beginners, especially when it comes to locating the full path for interfaces or protocols and updating specific values.To better understand the process, I decided to build my own custom module, inspired by other well-known collections like Junos, Arista, and Cisco IOS.
+In this presentation, I’ll walk through how I created the module, provide a working example, explain the differences between my module and the official one, and finally reflect on whether building it was worth the effort. |

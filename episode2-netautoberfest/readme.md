@@ -1,0 +1,8 @@
+# NetAuto Group Meetup - Episode 2 - Netautoberfest
+
+| Presenter | Title | Description |
+| ----- | ----- | ----- |
+| [Urs Baumann](https://www.linkedin.com/in/ubaumannch/) | [Pydantify](https://github.com/ubaumann/slides_pydantify_NetAutoberfest2025/blob/main/presentation.pdf) | How can we bridge the gap between YANG data models and modern Python development? Urs will introduce Pydantify, a tool that generates Pydantic models from YANG, making network data easier to validate, manipulate, and integrate into Python workflows. |
+| [Christian Drefke](https://www.linkedin.com/in/christian-drefke/) | [Taming IaC Projects with Stacks]() | Large-scale Terraform/OpenTofu environments can quickly become overwhelming. Christian will share practical strategies for structuring and scaling IaC projects with stacking approaches, showing real-world examples of how Terraform and Terramate can be orchestrated in CI/CD pipelines. |
+| [Pete Crocker](https://www.linkedin.com/in/petercrocker/) | [SoT for IaC: The Infrahub Open Source Project]() | Every automation journey needs a reliable Source of Truth (SoT). Pete will present the Infrahub open source project, highlighting why it matters for network automation and how it enables seamless deployment of IaC with Ansible, Terraform, and workflow orchestrators. |
+| [Saeed Ali](https://www.linkedin.com/in/saeed-ali-84398951/) | [Building Network Digital Twins with Containerlab and GitLab CI/CD](./Network%20Digital%20Twin%20-%20NetAuto.pdf) | Every automation journey needs a reliable Source of Truth (SoT). Pete will present the Infrahub open source project, highlighting why it matters for network automation and how it enables seamless deployment of IaC with Ansible, Terraform, and workflow orchestrators. |
