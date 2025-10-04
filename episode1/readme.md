@@ -1,5 +1,7 @@
 # NetAuto Group Meetup - Episode 1
 
+| Presenter | Title | Description |
+| ----- | ----- | ----- |
 | [Florian Loehden](https://www.linkedin.com/in/florian-loehden/) | [What is Network Automation for everyone?](./NetAuto-m1-p1-network-automation.pdf) | In the lightning talk given by Florian Löhden, we will first hear about:
 What is this group, and what does it aim for? Giving a small introduction on what we thought while we were planning this group! But this isn't the only thing for the discussion we wanna talk about:
 What is Network Automation for you? There is no single answer to this! We aim to use this lightning talk to initiate a discussion on how we all became involved in Network Automation and what our experiences have been so far. |
