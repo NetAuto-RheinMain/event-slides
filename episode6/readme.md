@@ -1,4 +1,4 @@
-# NetAuto Group Meetup - Episode 4
+# NetAuto Group Meetup - Episode 6
 
 | Presenter | Title | Description |
 | ----- | ----- | ----- |
