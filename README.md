@@ -1,4 +1,4 @@
-# event-slides
+# Slides of the NetAuto Events
 Here are the Slides of the Events published
 
 | Event No. | Event Title | Event Date |
