@@ -9,3 +9,4 @@ Here are the Slides of the Events published
 | 04 | [NetAuto Group Meetup - Episode 4](./episode4/readme.md) | 11.12.2025 |
 | 05 | [NetAuto Group Meetup - Episode 5](./episode5/readme.md) | 05.02.2026 |
 | 06 | [NetAuto Group Meetup - Episode 6](./episode6/readme.md) | 18.06.2026 |
+| 07 | [NetAuto Group Meetup - Episode 7](./episode7/readme.md) | 28.08.2026 |
